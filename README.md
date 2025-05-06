@@ -1,4 +1,4 @@
 # anish-demo
 This is my first Git Repository.
 <br>
-Author - Anish Bhattarai
+Author - Anish Bhattarai(student)
